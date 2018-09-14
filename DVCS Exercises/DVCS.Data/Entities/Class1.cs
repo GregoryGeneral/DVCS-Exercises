@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DVCS.data
+namespace DVCS.Data.Entities
 {
-    public class Class1
+    class Class1
     {
     }
 }
